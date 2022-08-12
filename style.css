@@ -432,4 +432,8 @@ nav ul .vanish{
     #header{
         background-image: url(images/tab-bg.jpg);
        } 
+     .header-text p {
+        margin-top: 100%;
+        font-size: 30px;
+    }
 }
