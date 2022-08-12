@@ -430,7 +430,7 @@ nav ul .vanish{
 @media only screen and (min-width: 601px) and (max-width: 1023px){
 
     #header{
-        background-image: url(images/tab-bg.jpg);
+        background-image: url(images/tabbg.png);
        } 
      .header-text p {
         margin-top: 100%;
