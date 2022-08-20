@@ -432,6 +432,21 @@ nav ul .vanish{
 .contact-left, .contact-right{
     flex-basis: 100%;
 }
+.youtube{
+   width: 70%;
+   display: flex;
+   margin: 0px auto;
+   flex-direction: column;
+   align-items: center;
+   justify-self: center;
+
+}
+.youtube iframe{
+    width: 100%;
+    height: 100%;
+    padding-top: 15px;
+   
+}
 
 }
 #msg{
@@ -448,4 +463,15 @@ nav ul .vanish{
         margin-top: 100%;
         font-size: 30px;
     }
+    .youtube{
+        display: flex;
+        justify-content: space-around;
+     
+     }
+     .youtube iframe{
+         width: 100%;
+         height: 100%;
+         margin: 0px 15px;
+        
+     }
 }
