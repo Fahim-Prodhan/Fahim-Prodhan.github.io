@@ -156,8 +156,11 @@ nav ul li a:hover::after{
     display: block;
 }
 .youtube{
-display:flex;
-justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 /* ------------------services section--------------- */
