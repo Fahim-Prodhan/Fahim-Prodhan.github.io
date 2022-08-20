@@ -155,6 +155,10 @@ nav ul li a:hover::after{
 .tab-content.active-tab {
     display: block;
 }
+.youtube{
+display:flex;
+justify-content: space-between;
+}
 
 /* ------------------services section--------------- */
 
