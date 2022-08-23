@@ -163,6 +163,7 @@ nav ul li a:hover::after{
     margin-right: 150px;
 }
 
+
 /* ------------------services section--------------- */
 
 #services{
@@ -474,4 +475,12 @@ nav ul .vanish{
          margin: 0px 15px;
         
      }
+}
+@media only screen and (min-width: 1024px)
+{
+    .youtube iframe{
+        width: 100%;
+        padding: 30px;
+       
+    } 
 }
